@@ -1,7 +1,7 @@
 ---
 layout: default
 
-workshops:
+tutorials:
  - name: arc_gis
    description: Introductory resources for learning GIS with ArcGIS Desktop.
  - name: complex_mapping
@@ -20,7 +20,15 @@ workshops:
    description: A workshop introducing basic text mining techniques using R and the Stanford Named Entity Recognizer.
  - name: webmapping
    description: A tutorial for open source web mapping using Leaflet and the New York Public Library’s mapwarper.
-
+ - name: soms
+   description: A tutorial on creating self-organizing maps in R.
+ - name: web_network_visualization
+   description: By using d3.js, we have visualized the family tree network of lager and ale with interactions that help the audience understand the relationships more. Out of this project we deliever an easy-to-follow tutorial on the interactions and you are wellcome to try it out!
+ - name: time_filter_map
+   description: One of our clients had data about a group of UMich students' residential in Ann Arbor for decades. From this project, we deliever this tutorial with source codes for creating map visualization with the demension of time.
+ - name: bibliometric_networks
+   description: Networks can provide significant measures to identify data driven patterns and dependencies. We will use a bibliographic data file to create an interactive network display.
+ 
 projects:
  - name: crawling_noise
    description: Using SuperCollider to generate music from web crawling data.
@@ -32,19 +40,11 @@ projects:
    description: Classifying 3-d objects (specifically, buildings) using LIDAR point cloud source data.
  - name: network_study
    description: A usability study of network layout techniques investigating what makes network structures easily understandable.
- - name: soms
-   description: A tutorial on creating self-organizing maps in R.
  - name: typesetting
    description: In the days of the letterpress, printing blocks of text required letters (often cast in metal) to be arranged in the necessary sequence. This program is designed to match blocks of texts with known sets of letterpress press, and determine which sets have enough letters for printing.
- - name: web_network_visualization
-   description: By using d3.js, we have visualized the family tree network of lager and ale with interactions that help the audience understand the relationships more. Out of this project we deliever an easy-to-follow tutorial on the interactions and you are wellcome to try it out!
  - name: derrida
    description: The Princeton University Library (PUL) houses Derrida’s Margins, a website and online research tool for the annotations of Jacques Derrida. We used data collected from this project to create visualizations of the references used throughout Derrida’s De la grammatologie.
- - name: time_filter_map
-   description: One of our clients had data about a group of UMich students' residential in Ann Arbor for decades. From this project, we deliever this tutorial with source codes for creating map visualization with the demension of time.
- - name: bibliometric_networks
-   description: Networks can provide significant measures to identify data driven patterns and dependencies. We will use a bibliographic data file to create an interactive network display.
- 
+
 ---
 
 <div class="home">
@@ -54,11 +54,11 @@ projects:
      below, or peruse our <a href="https://clarklabs.lib.umich.edu/">blog</a> for additional information.</p>  
 
  
-   <h2>Workshops</h2>
+   <h2>Tutorials</h2>
  
     <div class="row pack" style="display: block">
         
-       {% for repository in page.workshops %}  
+       {% for repository in page.tutorials %}  
            <div class="col-md-4 card">
                  
                <div class="panel panel-default">
