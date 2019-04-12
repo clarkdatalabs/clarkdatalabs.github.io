@@ -25,11 +25,8 @@ He received his undergraduate degree from the University of Michigan in History.
 </div>
 </div>
 
-
-## 2018-2019 Interns:
-
 ### Lihan Zhu
-**Author**
+**Intern 2017-2019**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/NeilZhu.jpg' width="300" class='media-object' markdown = '1'>
@@ -40,7 +37,7 @@ Lihan (Neil) is a Master student in the School of Information focusing on human-
 </div>
 
 ### Hope Tambala 
-**Author**
+**Intern 2018-2019**
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
 </div>
@@ -49,7 +46,7 @@ Lihan (Neil) is a Master student in the School of Information focusing on human-
 </div>
 
 ### Jordan Earnest 
-**Author**
+**Intern 2018-2019**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 </div>
@@ -58,16 +55,18 @@ Lihan (Neil) is a Master student in the School of Information focusing on human-
 </div>
 
 ### Rheagan Martin
-**Author**
+**Intern 2018-2019**
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
+<img src='/images/people/00_Rheagan_Martin_Photo.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
+Rheagan Martin is a Ph.D. candidate in the History of Art focusing on late medieval manuscripts and early printed books. Rheagan is interested in the intersections between data visualization and digital humanities.
 </div>
 </div>
 
 ### Hannah VanWingen 
-**Author**
+**Intern 2018-2019**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/HannahVanWingen.jpg' width = '300' class='media-object' markdown = '1'>
@@ -78,7 +77,7 @@ Hannah is earning a Bachelors of Science in Physics and Complex Systems with a M
 </div>
 
 ### Emily Lin
-**Author**
+**Intern 2018-2019**
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
 <img src='/images/people/EmilyLin.jpg' width = '300' class='media-object' markdown = '1'>
@@ -88,10 +87,29 @@ Emily is a Bachelor’s student in the School of Information with a focus in Inf
 </div>
 </div>
 
-## 2016-2017 Interns:
+### Josué Reyes
+**Intern 2017-2018**
+<div class='media' markdown='1'>
+<div class='pull-right' markdown='1'>
+<img src='/images/people/JosueReyes.jpg' width="300" class='media-object' markdown='1'>
+</div>
+<div class="media-body" markdown="1">
+</div>
+</div>
+
+### Zoë Wilkinson Saldaña
+**Intern 2016-2018**
+<div class='media' markdown='1'>
+<div class='pull-right' markdown="1">
+<img src='/images/people/ZoeWilkinsonSaldana.jpg' width = '300' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Zoë is a Master's student in the School of Information specializing in information analysis and retrieval. She received her B.A. in Anthropology from Macalester College and has since worked in research and public & academic libraries. Zoë is especially interested in grappling with ambiguous and messy data, as well as crafting compelling narratives using data visualization techniques.
+</div>
+</div>
 
 ### Junhui Li
-**Author**
+**Intern 2016-2017**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/JunhuiLi.jpg' width="300" class='media-object' markdown='1'>
@@ -102,7 +120,7 @@ Junhui received his Master's degree from the School of Information with a focus 
 </div>
 
 ### Maria-Carolina Simao
-**Author**
+**Intern 2016-2017**
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
 <img src='/images/people/CarolinaSimao.jpg' width = '300' class='media-object' markdown = '1'>
@@ -113,7 +131,7 @@ Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment
 </div>
 
 ### Daniel Tanner
-**Author**
+**Intern 2016-2017**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/DanTanner.jpg' width = '300' class='media-object' markdown = '1'>
@@ -123,21 +141,8 @@ Dan is a Master’s student in the School of Natural Resources and Environment i
 </div>
 </div>
 
-### Zoë Wilkinson Saldaña
-**Author**
-<div class='media' markdown='1'>
-<div class='pull-right' markdown="1">
-<img src='/images/people/ZoeWilkinsonSaldana.jpg' width = '300' class='media-object' markdown = '1'>
-</div>
-<div class="media-body" markdown="1">
-Zoë is a Master's student in the School of Information specializing in information analysis and retrieval. She received her B.A. in Anthropology from Macalester College and has since worked in research and public & academic libraries. Zoë is especially interested in grappling with ambiguous and messy data, as well as crafting compelling narratives using data visualization techniques.
-</div>
-</div>
-
-## 2015-2016 Interns:
-
 ### Luciana Aenasoaie
-**Blog Editor** 
+**Intern 2015-2016** 
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/LucianaAenasoaie.jpg' width = '300' class='media-object' markdown = '1'>
@@ -148,7 +153,7 @@ Luciana is a Ph.D. Candidate in Anthropology and History at the University of Mi
 </div>
 
 ### Daina Andries 
-**Author**
+**Intern 2015-2016** 
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
 <img src='/images/people/DainaAndries.jpg' width = '300' class='media-object' markdown = '1'>
@@ -159,7 +164,7 @@ Daina completed an MSI at the University of Michigan School of Information. She 
 </div>
 
 ### Noureen Dharani
-**Author** 
+**Intern 2015-2016** 
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/NoureenDharani.png' width = '300' class='media-object' markdown = '1'>
@@ -170,7 +175,7 @@ Noureen is a Master’s candidate at the University of Michigan School of Inform
 </div>
 
 ### Joseph Klein 
-**Author** 
+**Intern 2015-2016** 
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
 <img src='/images/people/JosephKlein.jpg' width = '300' class='media-object' markdown = '1'>
@@ -181,7 +186,7 @@ Joe is a Master’s candidate at the School of Information focusing on data anal
 </div>
 
 ### Bhawana Mishra 
-**Author** 
+**Intern 2015-2016** 
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/BhawanaMishra.jpg' width = '300' class='media-object' markdown = '1'>
@@ -192,7 +197,7 @@ Bhawana is a Master’s candidate at the University of Michigan School of Inform
 </div>
 
 ### Kristen Sheppard 
-**Author** 
+**Intern 2015-2016**  
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
 <img src='/images/people/KristenSheppard.jpg' width = '300' class='media-object' markdown = '1'>
