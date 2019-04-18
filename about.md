@@ -29,10 +29,43 @@ He received his undergraduate degree from the University of Michigan in History.
 #### Intern 2017-2019
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
-<img src='/images/people/NeilZhu.jpg' width="300" class='media-object' markdown = '1'>
+<img src='/images/people/NeilZhu.png' width="300" class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Lihan (Neil) is a Master student in the School of Information focusing on human-computer interaction. He also received Master and Bachelor degrees in Architecture from the University of Michigan and Zhejiang University respectively. As an empathetic designer and energetic learner, Neil is particularly interested in exploring different ways and technologies of visualizing data innovatively and interactively.
+</div>
+</div>
+
+### Rheagan Martin
+#### Intern 2017-2019
+<div class='media' markdown='1'>
+<div class='pull-right' markdown='1'>
+<img src='/images/people/00_Rheagan_Martin_Photo.jpg' width = '300' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Rheagan Martin is a Ph.D. candidate in the History of Art focusing on late medieval manuscripts and early printed books. Rheagan is interested in the intersections between data visualization and digital humanities.
+</div>
+</div>
+
+### Emily Lin
+#### Intern 2018-2019
+<div class='media' markdown='1'>
+<div class='pull-right' markdown='1'>
+<img src='/images/people/EmilyLin.jpg' width = '300' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Emily is a Bachelor’s student in the School of Information with a focus in Information Analysis. Emily is passionate about data visualization because it helps people see trends they cannot see otherwise. Emily is particularly interested in various visualizations in R and Python libraries.
+</div>
+</div>
+
+### Hannah VanWingen 
+#### Intern 2018-2019
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+<img src='/images/people/HannahVanWingen.jpg' width = '300' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Hannah is earning a Bachelors of Science in Physics and Complex Systems with a Minor in Computer Science. She is particularly interested in network analysis, cellular automaton, and physical modeling. 
 </div>
 </div>
 
@@ -54,39 +87,6 @@ Lihan (Neil) is a Master student in the School of Information focusing on human-
 </div>
 </div>
 
-### Rheagan Martin
-#### Intern 2018-2019
-<div class='media' markdown='1'>
-<div class='pull-right' markdown='1'>
-<img src='/images/people/00_Rheagan_Martin_Photo.jpg' width = '300' class='media-object' markdown = '1'>
-</div>
-<div class="media-body" markdown="1">
-Rheagan Martin is a Ph.D. candidate in the History of Art focusing on late medieval manuscripts and early printed books. Rheagan is interested in the intersections between data visualization and digital humanities.
-</div>
-</div>
-
-### Hannah VanWingen 
-#### Intern 2018-2019
-<div class='media' markdown='1'>
-<div class='pull-left' markdown='1'>
-<img src='/images/people/HannahVanWingen.jpg' width = '300' class='media-object' markdown = '1'>
-</div>
-<div class="media-body" markdown="1">
-Hannah is earning a Bachelors of Science in Physics and Complex Systems with a Minor in Computer Science. She is particularly interested in network analysis, cellular automaton, and physical modeling. 
-</div>
-</div>
-
-### Emily Lin
-#### Intern 2018-2019
-<div class='media' markdown='1'>
-<div class='pull-right' markdown='1'>
-<img src='/images/people/EmilyLin.jpg' width = '300' class='media-object' markdown = '1'>
-</div>
-<div class="media-body" markdown="1">
-Emily is a Bachelor’s student in the School of Information with a focus in Information Analysis. Emily is passionate about data visualization because it helps people see trends they cannot see otherwise. Emily is particularly interested in various visualizations in R and Python libraries.
-</div>
-</div>
-
 ### Josué Reyes
 #### Intern 2017-2018
 <div class='media' markdown='1'>
@@ -94,6 +94,29 @@ Emily is a Bachelor’s student in the School of Information with a focus in Inf
 <img src='/images/people/JosueReyes.jpg' width="300" class='media-object' markdown='1'>
 </div>
 <div class="media-body" markdown="1">
+Josue received his Master’s degree from the University of Michigan, School of Information, where he focused on human-computer interaction. He earned his Bachelor’s degree at Rutgers University as a Psychology and Information Technology & Informatics double major. Josue is interested in journalism and storytelling through interactive data visualizations.
+</div>
+</div>
+
+### Julie Cruz
+#### Intern 2017-2018
+<div class='media' markdown='1'>
+<div class='pull-right' markdown='1'>
+<img src='/images/people/JulieCruz.jpg' width="300" class='media-object' markdown='1'>
+</div>
+<div class="media-body" markdown="1">
+Julie Cruz is an alumn of the Master’s of Science in Information. Her work revolved around visualizing African American housing on campus via interactive mapping. She currently works as a UX Designer for a financial tech startup in Ann Arbor.
+</div>
+</div>
+
+### Daniel Tanner
+#### Intern 2016-2018
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+<img src='/images/people/DanTanner.jpg' width = '300' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Dan is a Master’s student in the School of Natural Resources and Environment in the Environmental Informatics track, where he focuses on GIS and spatial analytics. He received a Master’s degree in mathematics from Rice University before doing Peace Corps in The Gambia. Dan is excited about how spatial intuition can make visualizations more understandable.
 </div>
 </div>
 
@@ -130,25 +153,14 @@ Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment
 </div>
 </div>
 
-### Daniel Tanner
-#### Intern 2016-2017
-<div class='media' markdown='1'>
-<div class='pull-left' markdown='1'>
-<img src='/images/people/DanTanner.jpg' width = '300' class='media-object' markdown = '1'>
-</div>
-<div class="media-body" markdown="1">
-Dan is a Master’s student in the School of Natural Resources and Environment in the Environmental Informatics track, where he focuses on GIS and spatial analytics. He received a Master’s degree in mathematics from Rice University before doing Peace Corps in The Gambia. Dan is excited about how spatial intuition can make visualizations more understandable.
-</div>
-</div>
-
-### Luciana Aenasoaie
+### Bhawana Mishra 
 #### Intern 2015-2016 
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
-<img src='/images/people/LucianaAenasoaie.jpg' width = '300' class='media-object' markdown = '1'>
+<img src='/images/people/BhawanaMishra.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
-Luciana is a Ph.D. Candidate in Anthropology and History at the University of Michigan. She received a Museum Studies Graduate Certificate in 2011 and her undergraduate degree in History, both from University of Michigan. She has been working with the University Library for the past few years as a research supervisor, exhibit curator, and program assistant.
+Bhawana is a Master’s candidate at the University of Michigan School of Information with skills in Data Mining and Data Visualization, and a former Business Intelligence Developer with a strong hold of Data Warehousing techniques, Query languages and BI tools.
 </div>
 </div>
 
@@ -163,17 +175,6 @@ Daina completed an MSI at the University of Michigan School of Information. She 
 </div>
 </div>
 
-### Noureen Dharani
-#### Intern 2015-2016 
-<div class='media' markdown='1'>
-<div class='pull-left' markdown='1'>
-<img src='/images/people/NoureenDharani.png' width = '300' class='media-object' markdown = '1'>
-</div>
-<div class="media-body" markdown="1">
-Noureen is a Master’s candidate at the University of Michigan School of Information specializing in Human Computer Interaction. She received her B.Comm from University of Calgary. She has a keen interest in Data Visualization and Information Architecture.
-</div>
-</div>
-
 ### Joseph Klein 
 #### Intern 2015-2016
 <div class='media' markdown='1'>
@@ -182,17 +183,6 @@ Noureen is a Master’s candidate at the University of Michigan School of Inform
 </div>
 <div class="media-body" markdown="1">
 Joe is a Master’s candidate at the School of Information focusing on data analytics and information visualization. He received his bachelor’s in Literature from the University of Michigan and is interested in the data sciences.
-</div>
-</div>
-
-### Bhawana Mishra 
-#### Intern 2015-2016 
-<div class='media' markdown='1'>
-<div class='pull-left' markdown='1'>
-<img src='/images/people/BhawanaMishra.jpg' width = '300' class='media-object' markdown = '1'>
-</div>
-<div class="media-body" markdown="1">
-Bhawana is a Master’s candidate at the University of Michigan School of Information with skills in Data Mining and Data Visualization, and a former Business Intelligence Developer with a strong hold of Data Warehousing techniques, Query languages and BI tools.
 </div>
 </div>
 
@@ -206,3 +196,27 @@ Bhawana is a Master’s candidate at the University of Michigan School of Inform
 Kristen is earning a Master’s of Science in Information at the University of Michigan’s School of Information with a focus in Human-Computer Interaction and Entrepreneurship. Kristen is passionate about digital-literacy and enjoys collaborating with researchers on data-visualization techniques and text analysis projects.
 </div>
 </div>
+
+### Luciana Aenasoaie
+#### Intern 2015-2016 
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+<img src='/images/people/LucianaAenasoaie.jpg' width = '300' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Luciana is a Ph.D. Candidate in Anthropology and History at the University of Michigan. She received a Museum Studies Graduate Certificate in 2011 and her undergraduate degree in History, both from University of Michigan. She has been working with the University Library for the past few years as a research supervisor, exhibit curator, and program assistant.
+</div>
+</div>
+
+### Noureen Dharani
+#### Intern 2015-2016 
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+<img src='/images/people/NoureenDharani.png' width = '300' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Noureen is a Master’s candidate at the University of Michigan School of Information specializing in Human Computer Interaction. She received her B.Comm from University of Calgary. She has a keen interest in Data Visualization and Information Architecture.
+</div>
+</div>
+
+
