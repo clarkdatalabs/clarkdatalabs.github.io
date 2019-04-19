@@ -20,9 +20,8 @@ Our blog serves as a space to share tutorials and troubleshooting for various ap
 </div>
 <div class="media-body" markdown="1">
 As a Visualization Librarian at the University of Michigan Library, Justin primarily assists users in finding, manipulating, analyzing and visualizing diverse types of data. He provides consultations on data visualization and other data related issues. He also teaches workshops on visualization techniques, literacy and tools.
-
-He received his undergraduate degree from the University of Michigan in History. He completed his Master’s of Science of Information at the University of Michigan – School of Information with a focus on Information Analysis and Retrieval and his PhD in Communications at the European Graduate School.
 </div>
+He received his undergraduate degree from the University of Michigan in History. He completed his Master’s of Science of Information at the University of Michigan – School of Information with a focus on Information Analysis and Retrieval and his PhD in Communications at the European Graduate School.
 </div>
 
 ### Lihan Zhu
@@ -32,7 +31,7 @@ He received his undergraduate degree from the University of Michigan in History.
 <img src='/images/people/NeilZhu.png' width="300" class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
-Lihan (Neil) is a Master student in the School of Information focusing on human-computer interaction. He also received Master and Bachelor degrees in Architecture from the University of Michigan and Zhejiang University respectively. As an empathetic designer and energetic learner, Neil is particularly interested in exploring different ways and technologies of visualizing data innovatively and interactively. He is a UX designer whose portfolio is at <a href="http://neil-zhu2.appspot.com">here</a>.
+Lihan (Neil) is a Master student in the School of Information focusing on human-computer interaction. He also received Master and Bachelor degrees in Architecture from the University of Michigan and Zhejiang University respectively. As an empathetic designer and energetic learner, Neil is particularly interested in exploring different ways and technologies of visualizing data innovatively and interactively. He is a UX designer whose portfolio is available <a href="http://neil-zhu2.appspot.com">here</a>.
 </div>
 </div>
 
