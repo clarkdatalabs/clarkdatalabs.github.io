@@ -10,7 +10,7 @@ We can offer guidance for static, dynamic, and interactive visualizations depend
 
 Our blog serves as a space to share tutorials and troubleshooting for various approaches to digital data visualization. It is also meant to provide unique ideas for data utilization for researchers in a variety of fields. Our team members use existing data sets from various projects around the world to extend their use and/or test the possibilities of particular software to collect and manipulate data. The blog posts narrate the journeys of our researchers through these technologies, their possibilities and challenges.
 
-## Our Team 
+# Our Team 
 
 ### Justin Joque
 #### Project Coordinator and Blog Editor
@@ -30,7 +30,7 @@ He received his undergraduate degree from the University of Michigan in History.
 <div class='pull-left' markdown='1'>
 <img src='/images/people/NeilZhu.png' width="300" class='media-object' markdown = '1'>
 </div>
-<div class="media-body" markdown="1" display="inline">
+<div class="media-body" markdown="1">
 Lihan (Neil) is a Master student in the School of Information focusing on human-computer interaction. He also received Master and Bachelor degrees in Architecture from the University of Michigan and Zhejiang University respectively. As an empathetic designer and energetic learner, Neil is particularly interested in exploring different ways and 
 technologies of visualizing data innovatively and interactively. He is a UX designer whose portfolio is available <a href="http://neil-zhu2.appspot.com">here</a>.
 </div>
