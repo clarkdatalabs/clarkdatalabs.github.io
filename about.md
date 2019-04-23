@@ -10,7 +10,7 @@ We can offer guidance for static, dynamic, and interactive visualizations depend
 
 Our blog serves as a space to share tutorials and troubleshooting for various approaches to digital data visualization. It is also meant to provide unique ideas for data utilization for researchers in a variety of fields. Our team members use existing data sets from various projects around the world to extend their use and/or test the possibilities of particular software to collect and manipulate data. The blog posts narrate the journeys of our researchers through these technologies, their possibilities and challenges.
 
-## Our team: 
+## Our Team 
 
 ### Justin Joque
 #### Project Coordinator and Blog Editor
@@ -30,8 +30,10 @@ He received his undergraduate degree from the University of Michigan in History.
 <div class='pull-left' markdown='1'>
 <img src='/images/people/NeilZhu.png' width="300" class='media-object' markdown = '1'>
 </div>
+<div class="media-body" markdown="1">
 Lihan (Neil) is a Master student in the School of Information focusing on human-computer interaction. He also received Master and Bachelor degrees in Architecture from the University of Michigan and Zhejiang University respectively. As an empathetic designer and energetic learner, Neil is particularly interested in exploring different ways and 
 technologies of visualizing data innovatively and interactively. He is a UX designer whose portfolio is available <a href="http://neil-zhu2.appspot.com">here</a>.
+</div>
 </div>
 
 ### Hope Tambala 
@@ -39,7 +41,6 @@ technologies of visualizing data innovatively and interactively. He is a UX desi
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
 <img src='/images/people/Hope_Tambala_06.jpg' width = '300' class='media-object' markdown = '1'>
-</div>
 </div>
 <div class="media-body" markdown="1">
 Hope is a Master’s Candidate at the School of Information focusing on User Experience Research and Design.  As a developer, Hope is passionate about engineering user-centered products for effective mobile and data visualization experiences. A portfolio of his design and development work can be found at <a href="http://www.hopetambala.com/">hopetambala.com</a>.
@@ -91,7 +92,7 @@ Emily is a Bachelor’s student in the School of Information with a focus in Inf
 ### Josué Reyes
 #### Intern 2017-2018
 <div class='media' markdown='1'>
-<div class='pull-right' markdown='1'>
+<div class='pull-left' markdown='1'>
 <img src='/images/people/JosueReyes.jpg' width="300" class='media-object' markdown='1'>
 </div>
 <div class="media-body" markdown="1">
@@ -179,7 +180,7 @@ Daina completed an MSI at the University of Michigan School of Information. She 
 ### Joseph Klein 
 #### Intern 2015-2016
 <div class='media' markdown='1'>
-<div class='pull-right' markdown='1'>
+<div class='pull-left' markdown='1'>
 <img src='/images/people/JosephKlein.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
@@ -212,7 +213,7 @@ Luciana is a Ph.D. Candidate in Anthropology and History at the University of Mi
 ### Noureen Dharani
 #### Intern 2015-2016 
 <div class='media' markdown='1'>
-<div class='pull-left' markdown='1'>
+<div class='pull-right' markdown='1'>
 <img src='/images/people/NoureenDharani.png' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
