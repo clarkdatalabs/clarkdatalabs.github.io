@@ -34,6 +34,27 @@ Lihan (Neil) is a Master student in the School of Information focusing on human-
 technologies of visualizing data innovatively and interactively. He is a UX designer whose portfolio is available <a href="http://neil-zhu2.appspot.com">here</a>.
 </div>
 
+### Hope Tambala 
+#### Intern 2018-2019
+<div class='media' markdown='1'>
+<div class='pull-right' markdown='1'>
+<img src='/images/people/Hope_Tambala_06.jpg' width = '300' class='media-object' markdown = '1'>
+</div>
+</div>
+<div class="media-body" markdown="1">
+Hope is a Master’s Candidate at the School of Information focusing on User Experience Research and Design.  As a developer, Hope is passionate about engineering user-centered products for effective mobile and data visualization experiences. A portfolio of his design and development work can be found at <a href="http://www.hopetambala.com/">hopetambala.com</a>.
+</div>
+</div>
+
+### Jordan Earnest 
+#### Intern 2018-2019
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+</div>
+<div class="media-body" markdown="1">
+</div>
+</div>
+
 ### Rheagan Martin
 #### Intern 2017-2019
 <div class='media' markdown='1'>
@@ -42,17 +63,6 @@ technologies of visualizing data innovatively and interactively. He is a UX desi
 </div>
 <div class="media-body" markdown="1">
 Rheagan Martin is a Ph.D. candidate in the History of Art focusing on late medieval manuscripts and early printed books. Rheagan is interested in the intersections between data visualization and digital humanities.
-</div>
-</div>
-
-### Emily Lin
-#### Intern 2018-2019
-<div class='media' markdown='1'>
-<div class='pull-right' markdown='1'>
-<img src='/images/people/EmilyLin.jpg' width = '300' class='media-object' markdown = '1'>
-</div>
-<div class="media-body" markdown="1">
-Emily is a Bachelor’s student in the School of Information with a focus in Information Analysis. Emily is passionate about data visualization because it helps people see trends they cannot see otherwise. Emily is particularly interested in various visualizations in R and Python libraries.
 </div>
 </div>
 
@@ -67,21 +77,14 @@ Hannah is earning a Bachelors of Science in Physics and Complex Systems with a M
 </div>
 </div>
 
-### Hope Tambala 
+### Emily Lin
 #### Intern 2018-2019
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
+<img src='/images/people/EmilyLin.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
-</div>
-</div>
-
-### Jordan Earnest 
-#### Intern 2018-2019
-<div class='media' markdown='1'>
-<div class='pull-left' markdown='1'>
-</div>
-<div class="media-body" markdown="1">
+Emily is a Bachelor’s student in the School of Information with a focus in Information Analysis. Emily is passionate about data visualization because it helps people see trends they cannot see otherwise. Emily is particularly interested in various visualizations in R and Python libraries.
 </div>
 </div>
 
