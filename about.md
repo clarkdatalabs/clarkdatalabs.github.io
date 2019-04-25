@@ -51,6 +51,8 @@ Hope is a Master’s Candidate at the School of Information focusing on User Exp
 #### Intern 2018-2019
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
+<img src='/images/people/JordanEarnest_fullsize.jpeg' width = '300' class='media-object' markdown = '1'>
+
 </div>
 <div class="media-body" markdown="1">
 </div>
