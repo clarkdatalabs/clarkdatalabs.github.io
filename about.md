@@ -54,7 +54,7 @@ Hope is a Master’s Candidate at the School of Information focusing on User Exp
 <img src='/images/people/EarnestJordan.jpeg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
-Jordan is a second-year Master’s student in Data Science at the School of Information. They are interested in Upon graduation they will start work as a software engineer at Twilio in San Francisco.
+Jordan is a second-year Master’s student in Data Science at the School of Information. They are interested in natural language processing and big data pipelines. Upon graduation they will start work as a software engineer at Twilio in San Francisco.
 </div>
 </div>
 
