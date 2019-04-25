@@ -31,7 +31,7 @@ He received his undergraduate degree from the University of Michigan in History.
 <img src='/images/people/NeilZhu.png' width="300" class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
-Lihan (Neil) is a Master student in the School of Information focusing on human-computer interaction. He also received Master and Bachelor degrees in Architecture from the University of Michigan and Zhejiang University respectively. As an empathetic designer and energetic learner, Neil is particularly interested in exploring different ways and 
+Lihan (Neil) is a Master's student in the School of Information focusing on human-computer interaction. He also received Master's and Bachelor's degrees in Architecture from the University of Michigan and Zhejiang University respectively. As an empathetic designer and energetic learner, Neil is particularly interested in exploring different ways and 
 technologies of visualizing data innovatively and interactively. He is a UX designer whose portfolio is available <a href="http://neil-zhu2.appspot.com">here</a>.
 </div>
 </div>
@@ -52,9 +52,9 @@ Hope is a Master’s Candidate at the School of Information focusing on User Exp
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/EarnestJordan.jpeg' width = '300' class='media-object' markdown = '1'>
-
 </div>
 <div class="media-body" markdown="1">
+Jordan is a second-year Master’s student in Data Science at the School of Information. They are interested in Upon graduation they will start work as a software engineer at Twilio in San Francisco.
 </div>
 </div>
 
