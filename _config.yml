@@ -7,9 +7,12 @@
 
 # To create catagories & tags 
 collections:
-  my_categories:
+  tags:
     output: true
-    permalink: /category/:name/
+    permalink: /tags/:name/ # optional
+  categories:
+    output: true
+    permalink: /:name/ # optional
     
 # Site settings
 title: Digital Projects Studio
