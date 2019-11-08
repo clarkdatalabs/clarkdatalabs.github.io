@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Us
-permalink: /about/
+title: Bar Graphs
+permalink: /bargraphs/
 ---
 
 The University of Michigan Libraries – Digital Project Studio offers support for a wide range of visualization related activities and projects. We provide resources, consulting, instruction and support for small and large projects. We are located on the third floor of the Shapiro Undergraduate Library (3169).
