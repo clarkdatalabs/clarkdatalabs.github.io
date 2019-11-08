@@ -10,7 +10,7 @@
 		 <small>{{ post.date | date_to_string }}</small>
 		 </a>
 		 {% for tag in post.tags %}
-			 <a class="tag" href="/categories/tags/#{{ tag | slugify }}">{{ tag }}</a>
+			 <a class="tag" href="/clarkdatalabs/#{{ tag | slugify }}">{{ tag }}</a>
 		 {% endfor %}
 		 </h3>
 		 </li>
