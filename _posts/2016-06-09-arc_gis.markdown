@@ -9,6 +9,30 @@ When there is no image mentioned in the front-matter, default image will be disp
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. Phasellus vitae nunc ac lectus finibus porttitor. Sed vel enim vulputate, euismod neque maximus, tincidunt turpis. Aenean accumsan leo eget dui porta pulvinar. Sed tincidunt, nisi non efficitur tempus, enim lectus aliquam arcu, at dignissim ligula ex eu quam. Suspendisse gravida dapibus ultrices. Vivamus convallis nulla nisl, a imperdiet felis pellentesque in. Nulla facilisi. Integer aliquet sed orci eu tempor. Sed viverra ullamcorper commodo.
 
-Morbi vestibulum sem eget maximus feugiat. Curabitur vehicula magna in molestie dignissim. Nam gravida leo non purus cursus, id accumsan justo tincidunt. Donec accumsan purus mauris, vitae luctus magna faucibus vitae. Nullam tincidunt urna scelerisque, hendrerit mi ac, sagittis ligula. Curabitur convallis eros eu fringilla maximus. Donec lobortis scelerisque enim eu molestie. Duis ac mi quis risus auctor vulputate.
+<div class="row pack" style="display: block">
+        
+       {% for repository in page.tutorials %}  
+           <div class="col-md-4 card" >
+                 
+               <div class="panel panel-default">
+                 
+                  <div class="panel-body">
+                     <h3 class="panel-title pull-left">{{ repository.name | truncate: 25 }}</h3>
+                  </div>
+                
+                  <a href="http://clarkdatalabs.github.io/{{ repository.name }}">
+                     <img width="100%" src="https://clarkdatalabs.github.io/{{ repository.name }}/images/thumbnail.png" alt="{{post.name}}">
+                  </a>
 
+                  <div class="panel-body">
+                    <small>{{ repository.description | strip_html | strip_newlines | truncate: 160 }}</small>  
+                    <a href="http://clarkdatalabs.github.io/{{ repository.name }}" class="btn btn-primary btn-sm pull-right mt10">More</a>
+                  </div>
+                 
+                </div>
+              
+            </div>
+       {% endfor %}
+       
+      </div>
 
