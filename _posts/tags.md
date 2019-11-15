@@ -1,4 +1,6 @@
 ---
+layout: default
+
  - name: arc_gis
    categories: Test 1
  - name: complex_mapping
