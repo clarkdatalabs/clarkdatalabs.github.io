@@ -5,10 +5,6 @@ description: Introductory resources for learning GIS with ArcGIS Desktop.
 categories: jekyll update try1
 ---
 
-When there is no image mentioned in the front-matter, default image will be displayed. You can change this image to any other one that suits your needs.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. Phasellus vitae nunc ac lectus finibus porttitor. Sed vel enim vulputate, euismod neque maximus, tincidunt turpis. Aenean accumsan leo eget dui porta pulvinar. Sed tincidunt, nisi non efficitur tempus, enim lectus aliquam arcu, at dignissim ligula ex eu quam. Suspendisse gravida dapibus ultrices. Vivamus convallis nulla nisl, a imperdiet felis pellentesque in. Nulla facilisi. Integer aliquet sed orci eu tempor. Sed viverra ullamcorper commodo.
-
 <div class="row pack" style="display: block">
         
        {% for repository in page.tutorials %}  
@@ -17,16 +13,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. P
                <div class="panel panel-default">
                  
                   <div class="panel-body">
-                     <h3 class="panel-title pull-left">{{ repository.name | truncate: 25 }}</h3>
+                     <h3 class="panel-title pull-left">{{ arc_gis | truncate: 25 }}</h3>
                   </div>
                 
-                  <a href="http://clarkdatalabs.github.io/{{ repository.name }}">
-                     <img width="100%" src="https://clarkdatalabs.github.io/{{ repository.name }}/images/thumbnail.png" alt="{{post.name}}">
+                  <a href="http://clarkdatalabs.github.io/{{ arc_gis }}">
+                     <img width="100%" src="https://clarkdatalabs.github.io/{{ arc_gis }}/images/thumbnail.png" alt="{{post.name}}">
                   </a>
 
                   <div class="panel-body">
                     <small>{{ repository.description | strip_html | strip_newlines | truncate: 160 }}</small>  
-                    <a href="http://clarkdatalabs.github.io/{{ repository.name }}" class="btn btn-primary btn-sm pull-right mt10">More</a>
+                    <a href="http://clarkdatalabs.github.io/{{ arc_gis }}" class="btn btn-primary btn-sm pull-right mt10">More</a>
                   </div>
                  
                 </div>
