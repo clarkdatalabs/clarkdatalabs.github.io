@@ -2,10 +2,19 @@
 layout: default
 name: arc_gis
 description: Introductory resources for learning GIS with ArcGIS Desktop.
-categories: jekyll update try1
+categories: "Geospatial Data"
 ---
 
-<div class="row pack" style="display: block">
+<div class="home">
+   
+   <p>The Digital Projects Studio is part of the University of Michigan's Clark Library. We 
+     provide tutorials and support for visualization work. Connect to our workshops and projects
+     below, or peruse our <a href="https://clarklabs.lib.umich.edu/">blog</a> for additional information.</p>  
+
+ 
+   <h2>Tutorials</h2>
+ 
+    <div class="row pack" style="display: block">
         
        {% for repository in page.tutorials %}  
            <div class="col-md-4 card" >
@@ -13,16 +22,16 @@ categories: jekyll update try1
                <div class="panel panel-default">
                  
                   <div class="panel-body">
-                     <h3 class="panel-title pull-left">{{ arc_gis | truncate: 25 }}</h3>
+                     <h3 class="panel-title pull-left">{{ repository.name | truncate: 25 }}</h3>
                   </div>
                 
-                  <a href="http://clarkdatalabs.github.io/{{ arc_gis }}">
-                     <img width="100%" src="https://clarkdatalabs.github.io/{{ arc_gis }}/images/thumbnail.png" alt="{{post.name}}">
+                  <a href="http://clarkdatalabs.github.io/{{ repository.name }}">
+                     <img width="100%" src="https://clarkdatalabs.github.io/{{ repository.name }}/images/thumbnail.png" alt="{{post.name}}">
                   </a>
 
                   <div class="panel-body">
                     <small>{{ repository.description | strip_html | strip_newlines | truncate: 160 }}</small>  
-                    <a href="http://clarkdatalabs.github.io/{{ arc_gis }}" class="btn btn-primary btn-sm pull-right mt10">More</a>
+                    <a href="http://clarkdatalabs.github.io/{{ repository.name }}" class="btn btn-primary btn-sm pull-right mt10">More</a>
                   </div>
                  
                 </div>
@@ -31,4 +40,66 @@ categories: jekyll update try1
        {% endfor %}
        
       </div>
+     
+     <hr>
+     <h2>Projects</h2>
+  
+     <div class="row pack">
+        
+     {% for repository in page.projects %}
+            <div class="col-md-4 card">
+                 
+               <div class="panel panel-default">
+                 
+                  <div class="panel-body">
+                    <h3 class="panel-title pull-left">{{ repository.name | truncate: 25 }}</h3>
+                  </div>
+                  <a href="http://clarkdatalabs.github.io/{{ repository.name }}">                 
+                     <img width="100%" src="https://clarkdatalabs.github.io/{{ repository.name }}/images/thumbnail.png" alt="{{post.title}}">
+                  </a>
+                  <div class="panel-body">
+                    <small>{{ repository.description | strip_html | strip_newlines | truncate: 160 }}</small> 
+                    <a href="http://clarkdatalabs.github.io/{{ repository.name }}" class="btn btn-primary btn-sm pull-right mt10">More</a>
+                  </div>
+                 
+               </div>
+             
+            </div>
+       {% endfor %}
+     
+     </div> 
+    
+<div class="row">
+    <div class="col-md-4">  </div>
+    <div class="col-md-4">
+        {% if paginator.total_pages > 1 %}
+        <ul class="pagination">
+          {% if paginator.previous_page %}
+            <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
+          {% else %}
+            <li><span>&laquo; Prev</span></li>
+          {% endif %}
 
+          {% for page in (1..paginator.total_pages) %}
+            {% if page == paginator.page %}
+              <li class="active"><span><em>{{ page }}</em></span></li>
+            {% elsif page == 1 %}
+            <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+            {% else %}
+            <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+            {% endif %}
+          {% endfor %}
+
+          {% if paginator.next_page %}
+            <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+          {% else %}
+            <li><span >Next &raquo;</span></li>
+          {% endif %}
+          </ul>
+        {% endif %}
+
+    </div>
+    <div class="col-md-4">  </div>
+ </div>
+ 
+</div>
