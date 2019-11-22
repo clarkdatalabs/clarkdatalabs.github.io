@@ -7,6 +7,7 @@
 
 # To create categories / tags 
 permalink: /:categories/:title/
+permalink: /:languages/:title/
     
 # Site settings
 title: Digital Projects Studio
