@@ -2,9 +2,9 @@
 layout: post
 title:  "aframe-NCAAB"
 date:   2016-06-13 10:51:47 +0530
-categories: R Python
 img: src="https://clarkdatalabs.github.io/banana-project/images/aframe-NCAAB.png"
-categories: [R, Python]
+categories: Geospatial
+languages: [R, Python]
 ---
 
 href="http://clarkdatalabs.github.io/bibliometric_networks/"
