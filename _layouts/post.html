@@ -14,6 +14,18 @@ layout: default
   {% endfor %}
 </div>
 
+<div class="post-languages">
+  {% if post %}
+    {% assign languages = post.languages %}
+  {% else %}
+    {% assign langauges = page.languages %}
+  {% endif %}
+  {% for language in languages %}
+  <a href="{{site.baseurl}}/languages/#{{language|slugize}}">{{language}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
+
 <p id="post-meta">{{ category_content }}</p>
 
 <div class="row">
