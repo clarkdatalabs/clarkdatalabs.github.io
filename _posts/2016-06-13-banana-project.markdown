@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Banana_Graph"
+title:  "banana-project"
 date:   2016-06-13 10:51:47 +0530
 categories: R Python
 img: image-1.png
