@@ -8,7 +8,7 @@ layout: default
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
-  {% for category in categories %}
+  {% for in categories %}
   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
@@ -27,6 +27,8 @@ layout: default
 </div>
 
 <p id="post-meta">{{ category_content }}</p>
+
+<p id="post-meta">{{ language_content }}</p>
 
 <div class="row">
 <div class="col-md-8">
