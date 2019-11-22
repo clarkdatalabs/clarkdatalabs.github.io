@@ -2,9 +2,9 @@
 layout: post
 title:  "mapping_R"
 date:   2016-06-13 10:51:47 +0530
-categories: R Python
+categories: R Geospatial
 img: src="https://clarkdatalabs.github.io/banana-project/images/thumbnail.png"
-categories: [R, Python]
+categories: [R, Geospatial]
 ---
 
 href="http://clarkdatalabs.github.io/mapping_R/"
