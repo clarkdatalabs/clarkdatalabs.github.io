@@ -3,7 +3,7 @@ layout: post
 title:  "complex_mapping"
 date:   2016-06-13 10:51:47 +0530
 categories: R Python
-img: src="https://clarkdatalabs.github.io/banana-project/images/thumbnail.png"
+img: src="https://clarkdatalabs.github.io/complex_mapping/images/thumbnail.png"
 categories: [R, Python]
 ---
 
