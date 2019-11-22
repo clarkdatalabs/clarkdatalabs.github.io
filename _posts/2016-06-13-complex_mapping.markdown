@@ -2,9 +2,9 @@
 layout: post
 title:  "complex_mapping"
 date:   2016-06-13 10:51:47 +0530
-categories: R Python
+categories: ArcGIS Geospatial
 img: src="https://clarkdatalabs.github.io/complex_mapping/images/thumbnail.png"
-categories: [R, Python]
+categories: [ArcGIS, Geospatial]
 ---
 
 href="http://clarkdatalabs.github.io/complex_mapping/"
