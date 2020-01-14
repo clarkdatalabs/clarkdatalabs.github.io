@@ -28,9 +28,18 @@ This theme is responsive.
 
 ![webjeda cards responsive jekyll theme](/images/webjeda-cards-responsive-jekyll-theme-2.png)
 
-
-
 # Development
+## Locally
+To develop jekyll sites locally, here are two important resources available.
+![Official Jekyll Site](https://jekyllrb.com/docs/installation/macos/)
+
+![Important Troubleshooting Information](https://github.com/jekyll/jekyll/issues/7274)
+## Run
+```
+jekyll serve
+```
+
+## Github
 Make changes to the **master** branch and create a pull request. Do not use **gh-pages** branch as it is used to host the theme.
 
 

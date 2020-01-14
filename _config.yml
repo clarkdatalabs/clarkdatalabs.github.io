@@ -55,6 +55,10 @@ github: http://github.com/clarkdatalabs
 sass:
   style: compressed
 
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
 # Ruby Gems
 gems: [jekyll-paginate, jekyll-seo-tag]
 
